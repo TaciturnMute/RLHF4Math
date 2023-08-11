@@ -1,6 +1,6 @@
 # Reinforcement Learning for Mathematical Reasoning (RLHF4Math)
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/lupantech/dl4math) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/TaciturnMute/RLHF4Math/tree/main) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 This repository is the reading list on ***Reinforcement Learning Human Feedback for Mathematical Reasoning (RLHF4Math)***. Related papers, web blogs, datasets, and classic books are included. 
